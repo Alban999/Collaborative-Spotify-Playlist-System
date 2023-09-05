@@ -37,7 +37,7 @@ The project files in this repo are to be deployed locally. The interface uses a 
 ## Instructions:
 Clone using:
 
-`git clone https://github.com/Qulxis/spotify-big-data-project.git` 
+`git clone https://github.com/Qulxis/spotify-big-data-project.git](https://github.com/Alban999/Collaborative-Spotify-Playlist-System.git` 
 
 Create a virtual environment for the project and activate it:
 
